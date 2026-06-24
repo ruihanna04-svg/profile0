@@ -17,8 +17,8 @@ export const heroData: HeroData = {
 
 // ─── Skills ──────────────────────────────────────────────────
 export const skillsData: SkillsData = {
-  skills: "AI & 敏捷开发: Vibe Coding, Gemini, GPT-4, Python, Claude\n数据与分析: SQL, Excel\n设计与内容: Figma, Midjourney, Stable Diffusion, 结构化 Prompt",
-  highlights: ["Vibe Coding", "Figma", "SQL"],
+  skills: "AI &  Vibe Coding: Codex, Gemini, GPT, Python, Claude\n数据与分析: SQL, Excel\n设计与内容: Figma, Midjourney, Stable Diffusion, 结构化 Prompt",
+  highlights: ["Vibe Coding", "Codex", "SQL"],
 };
 
 // ─── About ───────────────────────────────────────────────────
@@ -27,7 +27,9 @@ export const aboutData: AboutData = {
   imageAlt: " Character Illustration",
   text: `【EDUCATION】2023-2027：杭师大 历史学（师范）
 【EXPERRIENCES】·2025年2-6月：浙江实在智能科技有限公司（电商运营实习生）
-·2025年6-11月：杭州归一智能科技有限公司（内容/产品运营实习生）   ·个人IP：8万+小说作者；独立运营个人账号；运用vibe coding制作程序网站 `,
+·2025年6-11月：杭州归一智能科技有限公司（内容/产品运营实习生）   
+·2026年1月-6月：上海路明星光智能科技有限公司（内容+AI运营实习生）
+·个人IP：8万+小说作者；独立运营小红书900+粉丝个人账号；运用vibe coding制作程序网站 `,
 };
 
 // ─── Contact ─────────────────────────────────────────────────
